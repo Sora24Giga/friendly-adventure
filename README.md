@@ -3,7 +3,9 @@
 ### Heading
 
 # H1
+
 ## H2
+
 ### H3
 
 ### Bold
@@ -12,7 +14,7 @@
 
 ### Italic
 
-*italicized text*
+_italicized text_
 
 ### Blockquote
 
@@ -52,10 +54,10 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 
 ### Table
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
 
 ### Fenced Code Block
 
@@ -92,7 +94,6 @@ term
 - [ ] Update the website
 - [ ] Contact the media
 
-
 ### Highlight
 
 I need to highlight these ==very important words==.
@@ -106,6 +107,7 @@ H~2~O
 X^2^
 
 Fodable text:
+
 <details>
     <summary>Title 1</summary>
     <p> Content 1 Content 1 Content 1 Content 1</p>
@@ -115,17 +117,17 @@ Fodable text:
  <p> Content 2 Content 2 Content 2 Content 2</p>
  </details>
 
- ```html
- <h3>HTML </h3>
- <p> Some HTML code here </p>
- ```
+```html
+<h3>HTML</h3>
+<p>Some HTML code here</p>
+```
 
 markup : <kbd>&#8984; F </kbd>
 
 Hot ka=ey list:
- :foggy:
-| key | Symbol | 
-| --- | --- | 
+:foggy:
+| key | Symbol |
+| --- | --- |
 | Option | ⌥ |
 | Control | ^ |
 | Command | ⌘ |
@@ -148,3 +150,6 @@ Emoji:
     Markup : Code appears between colons :EMOJICODE:
 
 :mask:
+
+#Information
+sorawee Sriphakdeephongdej 642115045
