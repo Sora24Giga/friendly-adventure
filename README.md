@@ -151,6 +151,5 @@ Emoji:
 
 :mask:
 
-#Information
-sorawee Sriphakdeephongdej 642115045
-
+Poopa Somthawil 642115037
+poopa 642115037
